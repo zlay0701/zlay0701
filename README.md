@@ -1,5 +1,11 @@
 ## Hi there 👋
+![github-stats](https://github-readme-stats.zlay.fun/api?username=zlay0701&show_icons=true&icon_color=0366d6&bg_color=F5F5F5&hide_title=true&hide=contribs&include_all_commits=true&count_private=true)
 ## About me
+my blog : https://zlay.fun/
+------
+
+--------------------------"~ 我可是有底线的哟 ~"--------------------------
+
 <!--
 **zlay0701/zlay0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
