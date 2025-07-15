@@ -1,5 +1,23 @@
-## Hi there 👋
+## Hi there 👋 This is [zlay](https://github.com/zlay0701)
+
+<p align='center'>
+<a href="https://gitee.com/zlay0701"><img height="30" src="icons/gitee_icon.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/zlay0701"><img height="30" src="icons/github_icon.svg"></a>
+</p>
+
+## 技术栈
+
+![](https://img.shields.io/badge/mysql-5.7.26-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/redis-7.0.4-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
+
+## github stats
+
 ![github-stats](https://github-readme-stats.zlay.fun/api?username=zlay0701&show_icons=true&icon_color=0366d6&bg_color=F5F5F5&hide_title=true&hide=contribs&include_all_commits=true&count_private=true)
+
+## 使用语言
+
+[![Top Langs](https://github-readme-stats.zlay.fun/api/top-langs/?username=zlay0701&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## About me
 my blog : https://zlay.fun/
 ------
