@@ -8,7 +8,17 @@
 
 ## 技术栈
 
-![](https://img.shields.io/badge/mysql-5.7.26-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+
+
+![](https://img.shields.io/badge/java-spring-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/java-swing-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/java-javafx-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/vuejs-3-informational?style=flat&logo=vuedotjs&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/mysql-5.7.26-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Oracle-11g-informational?style=flat&logo=MyS1QL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/redis-7.0.4-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
 
 ## github stats
