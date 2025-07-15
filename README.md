@@ -1,9 +1,10 @@
 ## Hi there 👋 This is [zlay](https://github.com/zlay0701)
 
-<p align='center'>
+<p align='left'>
 <a href="https://gitee.com/zlay0701"><img height="30" src="icons/gitee_icon.svg"></a>&nbsp;&nbsp;
 <a href="https://github.com/zlay0701"><img height="30" src="icons/github_icon.svg"></a>
 </p>
+
 
 ## 技术栈
 
