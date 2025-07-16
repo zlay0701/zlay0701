@@ -23,6 +23,7 @@
 <img height="20" src="https://img.shields.io/badge/Oracle-11g-informational?style=flat&logo=MyS1QL&logoColor=white&color=2bbc8a">&nbsp;
 <img height="20" src="https://img.shields.io/badge/redis-7.0.4-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a">
 </p>
+
 ## 最新博客
 
 <!-- BLOG-POST-LIST:START -->
