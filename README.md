@@ -39,8 +39,8 @@
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-  <a href="#"><img alt="Github Stats" src="https://github-readme-stats.zlay.fun/api?username=zlay0701&show_icons=true&icon_color=0366d6&bg_color=F5F5F5&hide_title=true&hide=contribs&include_all_commits=true&count_private=true" height="192px"/></a>
-  <a href="#"><img alt="Top Languages" src="https://github-readme-stats.zlay.fun/api/top-langs/?username=zlay0701&layout=compact&hide_title=true&bg_color=F5F5F5" height="192px"/></a>
+  <a href="#"><img alt="Github Stats" src="https://github-readme-stats.zlay.fun/api?username=zlay0701&show_icons=true&icon_color=0366d6&bg_color=F5F5F5&hide_title=true&hide=contribs&include_all_commits=true&count_private=true" height="135px"/></a>
+  <a href="#"><img alt="Top Languages" src="https://github-readme-stats.zlay.fun/api/top-langs/?username=zlay0701&layout=compact&hide_title=true&bg_color=F5F5F5" height="135px"/></a>
   <br/>
 </details>
 
