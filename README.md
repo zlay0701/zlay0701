@@ -54,11 +54,17 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=zlay0701&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
-
-## 个人项目
-
-| ![](https://github-readme-stats.zlay.fun/api/pin/?username=zlay0701&repo=hexo-demo&show_owner=true&bg_color=F5F5F5) | ![](https://github-readme-stats.zlay.fun/api/pin/?username=zlay0701&repo=hugo-demo&show_owner=true&bg_color=F5F5F5) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+<details>
+  <summary>个人项目 Extra Pins 📌</summary>
+  <br/>
+  <a href="">
+  <img align="center" src="https://github-readme-stats.zlay.fun/api/pin/?username=zlay0701&repo=hexo-demo&show_owner=true&bg_color=F5F5F5" />
+</a>
+   <br/><br/>
+   <a href="">
+  <img align="center" src="https://github-readme-stats.zlay.fun/api/pin/?username=zlay0701&repo=hugo-demo&show_owner=true&bg_color=F5F5F5" />
+ </a>
+</details>
 
 ## About me
 
