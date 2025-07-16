@@ -75,7 +75,7 @@
 <details>
   <summary>GitHub Contribution 📈</summary>
   <br/>
-  <img src="profile-3d-contrib/profile-green-animate.svg">
+  <img src="profile-3d-contrib/profile-season.svg">
 </details>
 
 ## About me
