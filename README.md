@@ -72,6 +72,11 @@
   </tr>
 </table>
 </details>
+<details>
+  <summary>GitHub Contribution 📈</summary>
+  <br/>
+  <img src="profile-3d-contrib/profile-green-animate.svg">
+</details>
 
 ## About me
 
