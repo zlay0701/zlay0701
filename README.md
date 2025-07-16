@@ -35,6 +35,10 @@
 
 [![Top Langs](https://github-readme-stats.zlay.fun/api/top-langs/?username=zlay0701&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Github活动图
+
+[![github活动图](https://github-readme-activity-graph.vercel.app/graph?username=zlay0701&theme=vue&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## About me
 
 - 90后, 男生
