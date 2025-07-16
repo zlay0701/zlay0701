@@ -12,7 +12,7 @@
 
 
 
-## 技术栈
+## 技术栈 ⚙️
 
 <p align='left'>
 <img height="20" src="https://img.shields.io/badge/java-spring-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a">&nbsp;
@@ -57,13 +57,20 @@
 <details>
   <summary>个人项目 Extra Pins 📌</summary>
   <br/>
-  <a href="">
+<table>
+  <tr>
+    <td align="center" width="400">
+    	<a href="">
   <img align="center" src="https://github-readme-stats.zlay.fun/api/pin/?username=zlay0701&repo=hexo-demo&show_owner=true&bg_color=F5F5F5" />
-</a>
-   <br/><br/>
-   <a href="">
+</a> 
+</td>
+<td align="center" width="400">
+    	<a href="">
   <img align="center" src="https://github-readme-stats.zlay.fun/api/pin/?username=zlay0701&repo=hugo-demo&show_owner=true&bg_color=F5F5F5" />
  </a>
+ </td>
+  </tr>
+</table>
 </details>
 
 ## About me
