@@ -43,15 +43,17 @@
   <a href="#"><img alt="Top Languages" src="https://github-readme-stats.zlay.fun/api/top-langs/?username=zlay0701&layout=compact&hide_title=true&bg_color=F5F5F5" height="135px"/></a>
   <br/>
 </details>
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+  <a href="#"><img alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zlay0701&theme=vue&hide_title=true" height=""/>
+  </a>
+</details>
 
 ## 个人项目
 
 | ![](https://github-readme-stats.zlay.fun/api/pin/?username=zlay0701&repo=hexo-demo&show_owner=true&bg_color=F5F5F5) | ![](https://github-readme-stats.zlay.fun/api/pin/?username=zlay0701&repo=hugo-demo&show_owner=true&bg_color=F5F5F5) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-## Github活动图
-
-![github活动图](https://github-readme-activity-graph.vercel.app/graph?username=zlay0701&theme=vue&hide_title=true)
 
 ## About me
 
