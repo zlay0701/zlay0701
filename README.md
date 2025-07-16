@@ -49,6 +49,11 @@
   <a href="#"><img alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zlay0701&theme=vue&hide_title=true" height=""/>
   </a>
 </details>
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=zlay0701&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
 
 ## 个人项目
 
