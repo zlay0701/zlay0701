@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B+This+is+zlay)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B+This+is+zlay)
 
 <!-- 
  Hi there 👋 This is [zlay](https://github.com/zlay0701)
@@ -50,7 +50,7 @@
 
 ## Github活动图
 
-[![github活动图](https://github-readme-activity-graph.vercel.app/graph?username=zlay0701&theme=vue&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![github活动图](https://github-readme-activity-graph.vercel.app/graph?username=zlay0701&theme=vue&hide_title=true)
 
 ## About me
 
