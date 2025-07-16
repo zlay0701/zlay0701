@@ -1,29 +1,24 @@
 ## Hi there 👋 This is [zlay](https://github.com/zlay0701)
 
 <p align='left'>
+<a href="https://zlay.fun/"><img height="30" src="icons/fa6-solid--blog.svg"></a>&nbsp;&nbsp;
 <a href="https://gitee.com/zlay0701"><img height="30" src="icons/gitee_icon.svg"></a>&nbsp;&nbsp;
 <a href="https://github.com/zlay0701"><img height="30" src="icons/github_icon.svg"></a>
 </p>
+
 
 
 ## 技术栈
 
 <p align='left'>
 <img height="20" src="https://img.shields.io/badge/java-spring-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a">&nbsp;
-<img height="20" src="https://img.shields.io/badge/java-swing-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a">
+<img height="20" src="https://img.shields.io/badge/java-swing-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a">&nbsp;
+<img height="20" src="https://img.shields.io/badge/java-javafx-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a">&nbsp;
+<img height="20" src="https://img.shields.io/badge/vuejs-3-informational?style=flat&logo=vuedotjs&logoColor=white&color=2bbc8a">&nbsp;
+<img height="20" src="https://img.shields.io/badge/mysql-5.7.26-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a">&nbsp;
+<img height="20" src="https://img.shields.io/badge/Oracle-11g-informational?style=flat&logo=MyS1QL&logoColor=white&color=2bbc8a">&nbsp;
+<img height="20" src="https://img.shields.io/badge/redis-7.0.4-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a">
 </p>
-
-
-
-![](https://img.shields.io/badge/java-javafx-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/vuejs-3-informational?style=flat&logo=vuedotjs&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/mysql-5.7.26-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Oracle-11g-informational?style=flat&logo=MyS1QL&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/redis-7.0.4-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
 
 ## Github Stats
 
@@ -42,7 +37,7 @@
 
 ## About me
 
-My Blog : [zlay.fun](https://zlay.fun/)
+- 90后, 男生
 
 ------
 
