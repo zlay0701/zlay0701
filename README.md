@@ -1,4 +1,8 @@
-## Hi there 👋 This is [zlay](https://github.com/zlay0701)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B+This+is+zlay)](https://git.io/typing-svg)
+
+<!-- 
+ Hi there 👋 This is [zlay](https://github.com/zlay0701)
+ -->
 
 <p align='left'>
 <a href="https://zlay.fun/"><img height="30" src="icons/fa6-solid--blog.svg"></a>&nbsp;&nbsp;
