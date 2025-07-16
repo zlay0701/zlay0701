@@ -31,18 +31,17 @@
 
 ## Github Stats
 
-![github-stats](https://github-readme-stats.zlay.fun/api?username=zlay0701&show_icons=true&icon_color=0366d6&bg_color=F5F5F5&hide_title=true&hide=contribs&include_all_commits=true&count_private=true)
+
+
+| ![github-stats](https://github-readme-stats.zlay.fun/api?username=zlay0701&show_icons=true&icon_color=0366d6&bg_color=F5F5F5&hide_title=true&hide=contribs&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats.zlay.fun/api/top-langs/?username=zlay0701&layout=compact&hide_title=true) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
 
 ## 个人项目
 
 | ![](https://github-readme-stats.zlay.fun/api/pin/?username=zlay0701&repo=hexo-demo&show_owner=true&bg_color=F5F5F5) | ![](https://github-readme-stats.zlay.fun/api/pin/?username=zlay0701&repo=hugo-demo&show_owner=true&bg_color=F5F5F5) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-
-
-## 使用语言
-
-[![Top Langs](https://github-readme-stats.zlay.fun/api/top-langs/?username=zlay0701&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github活动图
 
