@@ -7,11 +7,11 @@
  -->
 
 <p align='left'>
-<a href="https://zlay.fun/"><img height="30" src="icons/fa6-solid--blog.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/zlay0701"><img height="30" src="icons/github_icon.svg"></a>&nbsp;&nbsp;
-<a href="mailto:zlay0701@gmail.com"><img height="30" src="icons/email2.svg"></a>&nbsp;&nbsp;
-<a href="https://gitee.com/zlay0701"><img height="30" src="icons/gitee_icon.svg"></a>&nbsp;&nbsp;
-<a href="https://www.cnblogs.com/zlay0701/p/18912013"><img height="30" src="icons/cnblogs2.svg"></a>&nbsp;&nbsp;
+<a href="https://zlay.fun/"><img height="30" alt="博客" src="icons/fa6-solid--blog.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/zlay0701"><img height="30" alt="Github" src="icons/github_icon.svg"></a>&nbsp;&nbsp;
+<a href="mailto:zlay0701@gmail.com"><img height="30" alt="Email" src="icons/email2.svg"></a>&nbsp;&nbsp;
+<a href="https://gitee.com/zlay0701"><img height="30" alt="GItee" src="icons/gitee_icon.svg"></a>&nbsp;&nbsp;
+<a href="https://www.cnblogs.com/zlay0701/p/18912013"><img height="30" alt="博客园" src="icons/cnblogs2.svg"></a>&nbsp;&nbsp;
 </p>
 
 
