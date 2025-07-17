@@ -64,12 +64,12 @@
 <table>
   <tr>
     <td align="center" width="400">
-    	<a href="">
+    	<a href="https://github.com/zlay0701/hexo-demo">
   <img align="center" src="https://github-readme-stats.zlay.fun/api/pin/?username=zlay0701&repo=hexo-demo&show_owner=true&bg_color=F5F5F5" />
 </a> 
 </td>
 <td align="center" width="400">
-    	<a href="">
+    	<a href="https://github.com/zlay0701/hugo-demo">
   <img align="center" src="https://github-readme-stats.zlay.fun/api/pin/?username=zlay0701&repo=hugo-demo&show_owner=true&bg_color=F5F5F5" />
  </a>
  </td>
