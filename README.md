@@ -24,7 +24,7 @@
 <img height="20" src="https://img.shields.io/badge/redis-7.0.4-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a">
 </p>
 
-## 最新博客
+## 最新博客 📖
 
 <!-- BLOG-POST-LIST:START -->
 - [Github个人主页配置](https://zlay.fun/post/2025-07-16-github-profile-setting/)
@@ -78,7 +78,7 @@
   <img src="profile-3d-contrib/profile-season.svg">
 </details>
 
-## About me
+## About me 🧑‍💻
 
 - 90后, 男生
 
