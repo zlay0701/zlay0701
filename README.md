@@ -31,11 +31,11 @@
 ## 最新博客 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [小米CR660x刷机Padavan](https://zlay.fun/post/2025-07-18-cr660x-shua-ji/)
 - [Github个人主页配置](https://zlay.fun/post/2025-07-16-github-profile-setting/)
 - [有道云笔记导出到Markdown](https://zlay.fun/post/2025-07-09-you-dao-yun-bi-ji-import-markdown/)
 - [hexo hugo vuepress 文档写法区别](https://zlay.fun/post/2025-07-06-hexo-hugo-vuepress-write-tutorial/)
 - [bootstrapfx编译踩坑指南](https://zlay.fun/post/2025-07-05-bootstrapfx-install/)
-- [VuePress-v2-hope主题上手指南](https://zlay.fun/post/2025-06-24-vuepress2-start/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats 📊
