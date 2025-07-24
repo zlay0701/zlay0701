@@ -31,11 +31,11 @@
 ## 最新博客 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [Astro-Fuwari主题配置](https://zlay.fun/post/2025-07-24-astro-fuwari-install/)
 - [建站工具汇总](https://zlay.fun/post/2025-07-22-website-building-tools/)
 - [Docusaurus安装指南](https://zlay.fun/post/2025-07-21-docusaurus-install/)
 - [安装python和pip以及mkdocs-material](https://zlay.fun/post/2025-07-20-install-python-pip-mkdocs/)
 - [小米CR660x刷机Padavan](https://zlay.fun/post/2025-07-18-cr660x-shua-ji/)
-- [Github个人主页配置](https://zlay.fun/post/2025-07-16-github-profile-setting/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats 📊
