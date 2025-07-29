@@ -31,11 +31,11 @@
 ## 最新博客 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [CloudFlare-ImgBed部署-PicList使用](https://zlay.fun/post/2025-07-28-cloudflare-imgbed-install/)
 - [Firefox中国账户停止服务,迁移数据到国际账户](https://zlay.fun/post/2025-07-28-firefox-chinese-account-stop-serve/)
 - [Docusaurus二次魔改增加博客分类](https://zlay.fun/post/2025-07-27-docusaurus-add-categories/)
 - [Astro-Fuwari主题配置](https://zlay.fun/post/2025-07-24-astro-fuwari-install/)
 - [建站工具汇总](https://zlay.fun/post/2025-07-22-website-building-tools/)
-- [Docusaurus安装指南](https://zlay.fun/post/2025-07-21-docusaurus-install/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats 📊
