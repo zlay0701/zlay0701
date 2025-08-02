@@ -30,12 +30,11 @@
 
 ## 最新博客 📖
 
-<!-- BLOG-POST-LIST:START -->
-- [NVM（Node.js Version Manager）安装](https://zlay.fun/post/2025-07-29-node-version-management-install/)
-- [CloudFlare-ImgBed部署-PicList使用](https://zlay.fun/post/2025-07-28-cloudflare-imgbed-install/)
-- [Firefox中国账户停止服务,迁移数据到国际账户](https://zlay.fun/post/2025-07-28-firefox-chinese-account-stop-serve/)
-- [Docusaurus二次魔改增加博客分类](https://zlay.fun/post/2025-07-27-docusaurus-add-categories/)
-- [Astro-Fuwari主题配置](https://zlay.fun/post/2025-07-24-astro-fuwari-install/)
+<!-- BLOG-POST-LIST:START --><li><a href="https://zlay.fun/post/2025-07-29-node-version-management-install/">NVM（Node.js Version Manager）安装 Tue Jul 29 2025 7:07 AM</a></li>
+<li><a href="https://zlay.fun/post/2025-07-28-cloudflare-imgbed-install/">CloudFlare-ImgBed部署-PicList使用 Mon Jul 28 2025 12:48 PM</a></li>
+<li><a href="https://zlay.fun/post/2025-07-28-firefox-chinese-account-stop-serve/">Firefox中国账户停止服务,迁移数据到国际账户 Mon Jul 28 2025 7:14 AM</a></li>
+<li><a href="https://zlay.fun/post/2025-07-27-docusaurus-add-categories/">Docusaurus二次魔改增加博客分类 Sun Jul 27 2025 9:55 AM</a></li>
+<li><a href="https://zlay.fun/post/2025-07-24-astro-fuwari-install/">Astro-Fuwari主题配置 Thu Jul 24 2025 1:52 AM</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats 📊
