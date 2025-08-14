@@ -32,11 +32,11 @@
 
 > *每日凌晨同步(2:00 a.m. Beijing time)*
 
-<!-- BLOG-POST-LIST:START --><li>[2025-08-09] <a href="https://zlay.fun/post/2025-08-09-joplin-setting/">Joplin笔记webdav同步InfiniCloud设置</a></li>
+<!-- BLOG-POST-LIST:START --><li>[2025-08-14] <a href="https://zlay.fun/post/2025-08-14-excel-xlookup-demo/">Excel中xlookup使用教程&lpar;豆包AI&rpar;</a></li>
+<li>[2025-08-09] <a href="https://zlay.fun/post/2025-08-09-joplin-setting/">Joplin笔记webdav同步InfiniCloud设置</a></li>
 <li>[2025-08-08] <a href="https://zlay.fun/post/2025-08-08-cloudpaste-install/">CloudPaste部署</a></li>
 <li>[2025-07-29] <a href="https://zlay.fun/post/2025-07-29-node-version-management-install/">NVM（Node.js Version Manager）安装</a></li>
 <li>[2025-07-28] <a href="https://zlay.fun/post/2025-07-28-cloudflare-imgbed-install/">CloudFlare-ImgBed部署-PicList使用</a></li>
-<li>[2025-07-28] <a href="https://zlay.fun/post/2025-07-28-firefox-chinese-account-stop-serve/">Firefox中国账户停止服务,迁移数据到国际账户</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats 📊
