@@ -23,6 +23,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then
+          if git commit -m "generate-github-profile-3d-contrib"; then
             git push
           fi
