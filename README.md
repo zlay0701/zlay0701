@@ -89,6 +89,10 @@
 
 ------
 
+> My GPG Key Fingerprint: [**`5DDC14697A1C9C0DD291D838D9F24676FB231A92`**](https://keys.openpgp.org/search?q=5DDC14697A1C9C0DD291D838D9F24676FB231A92) / [Download Public **GPG** Key](https://github.com/zlay0701.gpg) / [Download Public **SSH** Keys](https://github.com/zlay0701.keys)
+
+------
+
 --------------------------~ 我可是有底线的哟 ~--------------------------
 
 <!--
