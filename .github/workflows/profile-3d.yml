@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule: # 03:00 JST == 18:00 UTC https://cron.ciding.cc/
     - cron: "0 18 * * 1" #每天 UTC 18点执行 换算北京时间再+8 北京时间02:00
   workflow_dispatch:
 

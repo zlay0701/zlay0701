@@ -4,7 +4,7 @@
 #
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
+  schedule: # Run workflow automatically https://cron.ciding.cc/
     - cron: '0 18 * * *' # 每天 UTC 18点执行 换算北京时间再+8 北京时间02:00
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
