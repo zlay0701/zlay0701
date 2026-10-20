@@ -51,7 +51,7 @@
 <details>
   <summary>Activity Graph 📈</summary>
   <br/>
-  <a href="#"><img alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zlay0701&theme=vue&hide_title=true" height=""/>
+  <a href="#"><img alt="github activity graph" src="https://github-readme-activity-graph-zlay0701.vercel.app/graph?username=zlay0701&theme=vue&hide_title=true" height=""/>
   </a>
 </details>
 <details>
