@@ -28,9 +28,9 @@
 <img height="20" src="https://img.shields.io/badge/redis-7.0.4-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a">
 </p>
 
-## 最新博客 📖
+## Latest Blogs 📖
 
-> *每日凌晨同步(2:00 a.m. Beijing time)*
+> *Daily Sync (5:00 AM UTC)*
 
 <!-- BLOG-POST-LIST:START --><li>[2026-11-02] <a href="https://zlay.fun/post/2026-11-02-supabase-keepalive-cloudflare-worker/">Supabase定时保活-基于Cloudflare Workers</a></li>
 <li>[2026-01-16] <a href="https://zlay.fun/post/2026-01-16-moepush-install/">消息推送服务moepush部署教程</a></li>
