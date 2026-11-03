@@ -16,9 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: 设置 Node.js
-        uses: actions/setup-node@v4 # 升级到 v4，设置 node.js 环境
+        uses: actions/setup-node@v5 # 升级到 v4，设置 node.js 环境
         with:
           node-version: '22'
       - name: Pull in dev.to posts

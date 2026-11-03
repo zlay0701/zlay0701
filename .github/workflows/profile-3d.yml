@@ -13,9 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: 设置 Node.js
-        uses: actions/setup-node@v4 # 升级到 v4，设置 node.js 环境
+        uses: actions/setup-node@v5 # 升级到 v4，设置 node.js 环境
         with:
           node-version: '22'
       - uses: yoshi389111/github-profile-3d-contrib@latest
