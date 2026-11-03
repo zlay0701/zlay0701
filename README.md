@@ -16,7 +16,7 @@
 
 
 
-## 技术栈 🛠️
+## Tech Stack 🛠️
 
 <p align='left'>
 <img height="20" src="https://img.shields.io/badge/java-spring-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a">&nbsp;
