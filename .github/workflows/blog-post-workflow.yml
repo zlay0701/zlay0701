@@ -5,7 +5,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically https://cron.ciding.cc/
-    - cron: '0 18 * * *' # 每天 UTC 18点执行 换算北京时间再+8 北京时间02:00
+    - cron: '23 4 * * *' # 北京时间 12:23 执行 → UTC 04:23
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
@@ -17,6 +17,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4 # 升级到 v4，设置 node.js 环境
+        with:
+          node-version: '22'
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
